@@ -55,12 +55,12 @@ This exercise focuses mainly on raster data and raster analysis. You have alread
 1. Download 5_Exercise_data.zip from the [Github repository](https://github.com/rowan8k/fundamentals-of-gis/tree/master/Data), save it in a folder for this exercise, and extract the contents from the zip. 
 
 2. You have to download the Digital Elevation Model (DEM) from PaITuli. 
-	- Open the following link: https://paituli.csc.fi/download.html
+	- Open the following link: https://paituli.csc.fi/download
 	- Select the following settings:
 		- Producer: National Land Survey of Finland
 		- Data: Elevation Model
 		- Scale: 10 m x 10 m
-	- Type "L3343" in the search bar
+	- Select "Select map sheets" and type "L3343" in the search bar
 	- Download as zip file
 
 3. Add the Digital Elevation Model you downloaded from PaITuli to QGIS (What type of data is this? How do you add that?).
@@ -243,9 +243,9 @@ RleHQiOiIjIyMgUGFydCAxOiBHZXR0aW5nIGZhbWlsaWFyIHdp
 dGggcmFzdGVyIGRhdGEiLCJzdGFydCI6NDUwNSwiZW5kIjo0NT
 UwfSwiOHVHaWRIdm5ZanAxREROZCI6eyJ0ZXh0IjoiIyMjIyAy
 LjI6IERlZmluaW5nIHRoZSBzdWl0YWJsZSBhcmVhcyIsInN0YX
-J0IjoxMzE0MiwiZW5kIjoxMzE3OX0sIlZQWTBQV0xGdTBZNXBj
-VGsiOnsidGV4dCI6IkhpbGxzaGFkZSIsInN0YXJ0Ijo3NTQxLC
-JlbmQiOjc1NTB9LCIyTXNQN2RqM3p1N09YZmZBIjp7InN0YXJ0
+J0IjoxMzE2OCwiZW5kIjoxMzIwNX0sIlZQWTBQV0xGdTBZNXBj
+VGsiOnsidGV4dCI6IkhpbGxzaGFkZSIsInN0YXJ0Ijo3NTY3LC
+JlbmQiOjc1NzZ9LCIyTXNQN2RqM3p1N09YZmZBIjp7InN0YXJ0
 IjoxMDksImVuZCI6MTA5LCJ0ZXh0IjoiQnkifX0sImNvbW1lbn
 RzIjp7IkFLRTRZRTdvN09ZZjZkRjMiOnsiZGlzY3Vzc2lvbklk
 IjoiTWVvekRTcWs5OU5ia0hhUiIsInN1YiI6ImdoOjQwMzA0Nz
@@ -263,11 +263,11 @@ JjcmVhdGVkIjoxNjg4MDM0MzY2NTk5fSwieGltNzYwSUU4VVN2
 UG9LMCI6eyJkaXNjdXNzaW9uSWQiOiIyTXNQN2RqM3p1N09YZm
 ZBIiwic3ViIjoiZ2g6NDAzMDQ3ODgiLCJ0ZXh0IjoiQWRkIGNy
 ZWRpdHMiLCJjcmVhdGVkIjoxNjg4NDU3MjY0MDQyfX0sImhpc3
-RvcnkiOlsxMjczNjExMTksNjY0ODk4ODk4LDEzMTg3NTM4OSwt
-NTIyNjgzNjcsNTk4NTc4MTY3LDIwMDk0NjUzNTgsMTcxMDA0ND
-QzOSwtMTAxMzYwNDEyLDUzODQzMDc2MCwxODc0NjkxOTg0LC03
-NjE2MjQwNDAsMTU4MjU3NzM3NCw5MjI4NTA5NjcsMTI4ODk5OT
-g0NiwtOTMxMjA3MTY4LC0zNzE1ODE3ODcsLTE3NDY0NDE5NTYs
-LTE3NDU3ODYyODQsLTE4MDkxOTc3MTUsLTE0MDIyMjQzMzBdfQ
+RvcnkiOlstMTE4NTE2OTc3MywxMjczNjExMTksNjY0ODk4ODk4
+LDEzMTg3NTM4OSwtNTIyNjgzNjcsNTk4NTc4MTY3LDIwMDk0Nj
+UzNTgsMTcxMDA0NDQzOSwtMTAxMzYwNDEyLDUzODQzMDc2MCwx
+ODc0NjkxOTg0LC03NjE2MjQwNDAsMTU4MjU3NzM3NCw5MjI4NT
+A5NjcsMTI4ODk5OTg0NiwtOTMxMjA3MTY4LC0zNzE1ODE3ODcs
+LTE3NDY0NDE5NTYsLTE3NDU3ODYyODQsLTE4MDkxOTc3MTVdfQ
 ==
 -->
